@@ -9,8 +9,7 @@
 - 📫 How to reach me **gbhabra0022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/ganapati-biswas-b958971a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganapati-biswas-b958971a1" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/ganapati_biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganapati_biswas" height="30" width="40" /></a>
 </p>
