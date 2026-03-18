@@ -6,16 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganapati-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="ganapati-biswas" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/ganapatibiswas8" target="blank"><img src="https://img.shields.io/twitter/follow/ganapatibiswas8?logo=twitter&style=for-the-badge" alt="ganapatibiswas8" /></a> </p>
-
-
 - 📫 How to reach me **gbhabra0022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ganapatibiswas8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganapatibiswas8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ganapati-biswas-b958971a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganapati-biswas-b958971a1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ganapati123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ganapati123" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ganapati_biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ganapati_biswas" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/ganapati_biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganapati_biswas" height="30" width="40" /></a>
 </p>
